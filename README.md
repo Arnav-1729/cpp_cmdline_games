@@ -1,1 +1,3 @@
 # cpp_cmdline_games
+
+Practicing and implementing CPP concepts learnt by making games ...
